@@ -6,6 +6,7 @@ import CardContainer from './components/CardContainer.jsx';
 function App() {
   return (
     <div className="App">
+      
       <Header/>
       <CardContainer/>
       <Footer/>
